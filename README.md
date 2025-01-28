@@ -1,1 +1,2 @@
-# This is My First Project using HTML and CSS.
+-⚡Hii! I'm <b>Kartik Jagdale</B>
+-👀I am interested In Web development and Web3 enthusiate..
